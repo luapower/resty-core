@@ -6,6 +6,6 @@ Works with luapower's build of [nginx] which bundles [lua-nginx-module].
 
 It's complete documentation is at https://github.com/openresty/lua-resty-core/tree/v0.1.17
 
-__NOTE__: this module must be upgraded in tandem with [lua-nginx-module].
+__NOTE__: this module must only be upgraded together with [lua-nginx-module].
 
 [lua-nginx-module]: https://github.com/openresty/lua-nginx-module
